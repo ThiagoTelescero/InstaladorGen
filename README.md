@@ -26,28 +26,6 @@ O **Atualizador de Scripts SQL e Executáveis** é uma aplicação em Python com
 
 ---
 
-## 🔧 Instalação e Configuração
-
-### 📥 Pré-requisitos
-- **Python 3.x instalado**
-- **Bibliotecas necessárias:**
-  ```bash
-  pip install tk
-  ```
-
----
-
-## 📌 Como Executar
-
-1. Baixe o código do programa.
-2. Execute o arquivo:
-   ```bash
-   python atualizador.py
-   ```
-3. Selecione os arquivos para execução ou atualização.
-
----
-
 ## 🖥️ Uso
 
 ### 1️⃣ **Executar Scripts SQL**
