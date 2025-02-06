@@ -1,6 +1,3 @@
-Aqui está a documentação no formato Markdown completa, pronta para ser copiada:
-
-
 # Atualizador de Scripts SQL e Executáveis
 
 ## 📌 Visão Geral
