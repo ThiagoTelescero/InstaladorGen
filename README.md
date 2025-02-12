@@ -57,18 +57,18 @@ O **Atualizador de Scripts SQL e Executáveis** é uma aplicação em Python com
 
 ---
 
-🆕 Patch de Atualização - Versão 0.0.5
+##🆕 Patch de Atualização - Versão 0.0.5
 
-🔄 Melhorias Implementadas
+##🔄 Melhorias Implementadas
 
 Esta atualização traz diversas melhorias para tornar o Atualizador de Scripts e Executáveis mais eficiente e intuitivo.
 
-📌 Novidades e Melhorias
+##📌 Novidades e Melhorias
 
-✅ 1. Barra de Progresso PercentualAgora, a barra de progresso exibe o percentual real do processo, avançando proporcionalmente ao número de scripts SQL ou executáveis processados.
+✅ 1. **Barra de Progresso Percentual** -Agora, a barra de progresso exibe o percentual real do processo, avançando proporcionalmente ao número de scripts SQL ou executáveis processados.
 
-✅ 2. Captura de Erros SQL no LogOs erros do SQL não são mais genéricos. O programa agora exibe detalhes completos do erro gerado pelo sqlcmd, tornando a depuração muito mais rápida e eficaz.
+✅ 2. **Captura de Erros SQL no Log** -Os erros do SQL não são mais genéricos. O programa agora exibe detalhes completos do erro gerado pelo sqlcmd, tornando a depuração muito mais rápida e eficaz.
 
-✅ 3. Interface Responsiva e Scroll Automático no LogO log agora inclui uma barra de rolagem, permitindo visualizar erros e mensagens anteriores sem precisar redimensionar a janela. Além disso, o scroll é automático, sempre exibindo a última linha do log conforme novos registros são adicionados.
+✅ 3. **Interface Responsiva e Scroll Automático no Log** -O log agora inclui uma barra de rolagem, permitindo visualizar erros e mensagens anteriores sem precisar redimensionar a janela. Além disso, o scroll é automático, sempre exibindo a última linha do log conforme novos registros são adicionados.
 
-✅ 4. Execução Assíncrona MelhoradaAs operações rodam em threads separadas, evitando travamentos e garantindo que a interface continue responsiva mesmo durante processos longos.
+✅ 4. **Execução Assíncrona Melhorada** -As operações rodam em threads separadas, evitando travamentos e garantindo que a interface continue responsiva mesmo durante processos longos.
