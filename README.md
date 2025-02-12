@@ -57,13 +57,13 @@ O **Atualizador de Scripts SQL e Executáveis** é uma aplicação em Python com
 
 ---
 
-##🆕 Patch de Atualização - Versão 0.0.5
+## 🆕 Patch de Atualização - Versão 0.0.5
 
-##🔄 Melhorias Implementadas
+### 🔄 Melhorias Implementadas
 
 Esta atualização traz diversas melhorias para tornar o Atualizador de Scripts e Executáveis mais eficiente e intuitivo.
 
-##📌 Novidades e Melhorias
+## 📌 Novidades e Melhorias
 
 ✅ 1. **Barra de Progresso Percentual** -Agora, a barra de progresso exibe o percentual real do processo, avançando proporcionalmente ao número de scripts SQL ou executáveis processados.
 
